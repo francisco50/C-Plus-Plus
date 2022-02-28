@@ -1,4 +1,4 @@
-# C-Plus-Plus
+# Identification System for Equatorial Guinea
 #include #include <stdbool.h> #include
 
 void myinfo();
